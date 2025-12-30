@@ -145,6 +145,8 @@ P.S.: если при запуске некоторые контейнеры б�
 
 ## Решение 8
 
+![img2](img/img2.jpg)
+
 #
 9. Изучите список [telegraf inputs](https://github.com/influxdata/telegraf/tree/master/plugins/inputs). 
 Добавьте в конфигурацию telegraf следующий плагин - [docker](https://github.com/influxdata/telegraf/tree/master/plugins/inputs/docker):
@@ -176,6 +178,8 @@ P.S.: если при запуске некоторые контейнеры б�
 Факультативно можете изучить какие метрики собирает telegraf после выполнения данного задания.
 
 ## Решение 9
+
+![img3](img/img3.jpg)
 
 ### Как оформить ДЗ?
 
